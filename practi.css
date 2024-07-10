@@ -304,7 +304,11 @@ ul p {
   padding: 15px;
 }
 
+<<<<<<< HEAD
 
+=======
+}
+>>>>>>> 5450b89cf022e7aa33c4d00f55ee5270e4e34c68
 @media only screen and (max-width: 500px) {
 /* center part */
   .box {
